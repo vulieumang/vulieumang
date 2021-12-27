@@ -1,11 +1,18 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/QX6ruFElzFdeIfblrg/giphy.gif?cid=ecf05e47jx2tbidt7kedj80rtesa3c7ytx0x6lxbdeaz6njr&rid=giphy.gif&ct=g">
+  <img src="https://i.giphy.com/media/5rQxFulvMc880MKYIl/giphy.webp">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23ED78F7&lines=I'm+Vulieumang++-+A+fullstack+developer)](https://git.io/typing-svg)![]
-(https://komarev.com/ghpvc/?username=vulieumang)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23ED78F7&lines=I'm+Vulieumang++-+A+fullstack+developer)](https://git.io/typing-svg)
+
+
+# Github Status
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vulieumang&layout=compact&theme=tokyonight&langs_count=6)
+![Github Status](https://github-readme-stats.vercel.app/api?username=vulieumang&show_icons=true&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=vulieumang)
+
 
 ## My knowledge
 
@@ -56,6 +63,3 @@ And Web 3... Maybe?
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/877882975855992852)
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/enaypi)
 
-# Github Status
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vulieumang&layout=compact&theme=tokyonight&langs_count=6)
-![Github Status](https://github-readme-stats.vercel.app/api?username=vulieumang&show_icons=true&theme=tokyonight)
