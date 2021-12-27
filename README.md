@@ -73,3 +73,6 @@ And Web 3... Maybe?
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/877882975855992852)
 [![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/enaypi)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/tm6pb5VXGhopzgPCtR/giphy.gif">
+</p>
