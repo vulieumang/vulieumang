@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <img src="[https://i.giphy.com/media/5rQxFulvMc880MKYIl/giphy.webp](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2htcnJzaG1nYmExaTV2N3YwbG95Y3l3ZTF1ZGRhNDVleHV4NDI3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8uAoivpnaTCpbunV3/giphy.gif)">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2htcnJzaG1nYmExaTV2N3YwbG95Y3l3ZTF1ZGRhNDVleHV4NDI3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8uAoivpnaTCpbunV3/giphy.gif">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23ED78F7&lines=I'm+Vulieumang++-+A+fullstack+developer)](https://git.io/typing-svg)
