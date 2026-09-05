@@ -36,35 +36,41 @@
 
 ### 🚀 Các hệ thống phần mềm tôi có thể làm cho bạn:
 
-1. **💼 CRM Quản Lý Khách Hàng & Bán Hàng May Đo**
+1. **🌐 Thiết Kế & Lập Trình Mọi Loại Website Chuyên Nghiệp**
+   - **Website Doanh Nghiệp / Công Ty:** Chuẩn SEO, giao diện sang trọng, khẳng định độ uy tín thương hiệu trên mọi thiết bị.
+   - **Website Bán Hàng / E-commerce:** Giỏ hàng mượt mà, quản lý sản phẩm/tồn kho, thanh toán quét mã VietQR tự động.
+   - **Landing Page Bán Hàng & Chạy Quảng Cáo (Facebook/TikTok Ads):** Thiết kế tối ưu chuyển đổi cao (CRO), thu lead tự động về CRM/Sheets.
+   - **Website Tin Tức, Báo Chí & Blog Cá Nhân:** Tốc độ tải trang dưới 1 giây, chuẩn SEO kỹ thuật giúp bài viết dễ dàng lên top Google.
+
+2. **💼 CRM Quản Lý Khách Hàng & Bán Hàng May Đo**
    - Thu thập khách hàng từ Landing page / Facebook / TikTok &rarr; phân loại lead tự động.
    - Quản lý lịch sử tư vấn, tiến trình chốt đơn, công nợ và doanh thu theo thời gian thực.
    - Tự động kích hoạt tin nhắn Zalo / SMS / Email chăm sóc khách hàng sau khi mua.
 
-2. **🎓 LMS - Hệ Thống Đào Tạo & Học Trực Tuyến**
+3. **🎓 LMS - Hệ Thống Đào Tạo & Học Trực Tuyến**
    - Cổng học viên riêng (Membership Portal), phân quyền xem video bài giảng theo khóa học.
    - Bảo mật chống chia sẻ tài khoản và chống download video bài giảng trái phép.
    - Tự động tạo phòng Zoom, điểm danh học viên tự động, cấp chứng chỉ hoàn thành khóa học.
 
-3. **💳 Hệ Thống Tự Động Hóa Thanh Toán VietQR (3 Giây Kích Hoạt)**
+4. **💳 Hệ Thống Tự Động Hóa Thanh Toán VietQR (3 Giây Kích Hoạt)**
    - Tạo mã QR thanh toán động theo từng đơn hàng/khóa học.
    - Tự động quét biến động số dư ngân hàng: Khách chuyển khoản xong là hệ thống tự động kích hoạt tài khoản ngay tức thì, gửi thông báo qua Telegram/Zalo.
 
-4. **📊 Phần Mềm Quản Lý Vận Hành & Báo Cáo Nội Bộ (Custom ERP / Dashboard)**
+5. **📊 Phần Mềm Quản Lý Vận Hành & Báo Cáo Nội Bộ (Custom ERP / Dashboard)**
    - Quản lý công việc (Task Manager), chấm công, tiến độ dự án theo từng phòng ban.
    - Quản lý công nợ, dòng tiền ra vào, xuất file Excel/PDF báo cáo tự động bằng 1 nút bấm.
    - Thay thế hoàn toàn các file Google Sheets rời rạc, tránh nguy cơ lộ hoặc mất dữ liệu.
 
-5. **🎟️ Hệ Thống Quản Lý Sự Kiện & Check-in Mã QR**
+6. **🎟️ Hệ Thống Quản Lý Sự Kiện & Check-in Mã QR**
    - Form đăng ký sự kiện &rarr; tự động sinh vé mời điện tử có mã QR riêng gửi qua Email/Zalo.
    - Nhân sự chỉ cần mở điện thoại quét mã QR là check-in xong trong 1 giây, chống gian lận vé.
 
-6. **🤖 Công Cụ Tự Động Hóa Dữ Liệu & Ứng Dụng AI**
+7. **🤖 Công Cụ Tự Động Hóa Dữ Liệu & Ứng Dụng AI**
    - Kịch bản tự động hóa quy trình liên phòng ban với `n8n` (tiết kiệm hàng chục giờ nhập liệu tay mỗi tuần).
    - Tool tự động lấy dữ liệu (Scraper) theo yêu cầu từ các trang web, sàn TMĐT, mạng xã hội.
    - Ứng dụng tích hợp AI: tạo ảnh/banner tự động, chuyển văn bản thành giọng đọc (Voice AI), chatbot hỗ trợ 24/7.
 
-7. **⚡ Landing Page Tốc Độ Cao & Nâng Cấp Hệ Thống Website Cũ**
+8. **⚡ Tối Ưu Tốc Độ & Nâng Cấp Hệ Thống Website Cũ Sang Cloudflare Serverless**
    - Chuyển đổi website sang hạ tầng Serverless Cloudflare: tải trang dưới 1 giây, chịu tải hàng chục ngàn người cùng lúc, **chi phí duy trì máy chủ hàng tháng gần như bằng 0**.
 
 ---
@@ -86,35 +92,41 @@
 
 ### 🚀 Concrete Software & Solutions I Deliver:
 
-1. **💼 Custom CRM & Lead Pipeline Systems**
+1. **🌐 Professional Website Development For All Needs**
+   - **Corporate & Company Websites:** Modern, authoritative branding, mobile-first, and technical SEO ready.
+   - **E-Commerce & Online Stores:** Fast product browsing, seamless cart/checkout, dynamic VietQR bank automation.
+   - **High-Converting Landing Pages (Ads & Funnels):** Built for CRO, integrated tracking pixels, and instant lead capture to CRM.
+   - **News, Magazines & Authority Blogs:** Sub-second page loads, structured data markup, and effortless content publishing.
+
+2. **💼 Custom CRM & Lead Pipeline Systems**
    - Auto-capture leads from landing pages, ads, or forms &rarr; route to the right sales reps.
    - Real-time pipeline tracking, deal status, debt & payment history.
    - Trigger automated SMS, Zalo, and email follow-ups after checkout.
 
-2. **🎓 LMS & Online Learning Portals**
+3. **🎓 LMS & Online Learning Portals**
    - Dedicated student membership portals with video lessons and tiered access permissions.
    - Anti-leak and anti-download video protections.
    - Automated Zoom classroom generation, attendance tracking, and certificate issuance.
 
-3. **💳 Instant VietQR & Bank Payment Automation**
+4. **💳 Instant VietQR & Bank Payment Automation**
    - Dynamic QR codes generated per invoice with auto-reconciliation.
    - Bank balance webhook monitoring: grants access and activates orders in under 3 seconds with Telegram/Zalo notifications.
 
-4. **📊 Custom Business Operations & Internal Dashboards (Custom ERP)**
+5. **📊 Custom Business Operations & Internal Dashboards (Custom ERP)**
    - Centralized task management, staff attendance, project milestones, and cash flow.
    - One-click Excel/PDF report generation replacing messy, scattered spreadsheets.
    - Role-based permissions to safeguard sensitive business data.
 
-5. **🎟️ Event Registration & QR Check-in Systems**
+6. **🎟️ Event Registration & QR Check-in Systems**
    - Clean registration pages &rarr; auto-generate personalized e-tickets with unique QR codes.
    - Lightning-fast mobile scanning at event entrance (1-second check-in).
 
-6. **🤖 Workflow Automation & AI-Powered Utilities**
+7. **🤖 Workflow Automation & AI-Powered Utilities**
    - End-to-end multi-app workflow automations via `n8n` (saving 20+ hours of manual data entry per week).
    - Custom web scrapers and cross-platform data synchronization pipelines.
    - AI-integrated tools: automated batch image generators, voice synthesis, and smart chatbots.
 
-7. **⚡ High-Converting Landing Pages & Cloudflare Serverless Migrations**
+8. **⚡ Site Speed Optimization & Cloudflare Serverless Migrations**
    - Modernize slow legacy sites to Cloudflare Serverless: sub-second page loads, immense traffic resilience, and near-zero monthly hosting bills.
 
 ---
