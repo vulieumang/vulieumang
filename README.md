@@ -12,11 +12,13 @@
 <p align="center">
   <a href="#-tiếng-việt">🇻🇳 <b>Tiếng Việt</b></a> •
   <a href="#-english">🇬🇧 <b>English</b></a> •
+  <a href="https://cv.dinhtienvu.com" target="_blank">📄 <b>cv.dinhtienvu.com</b></a> •
   <a href="#-tech-stack">🛠️ <b>Tech Stack</b></a> •
   <a href="#-liên-hệ--contact">📬 <b>Liên hệ / Contact</b></a>
 </p>
 
 <p align="center">
+  <a href="https://cv.dinhtienvu.com"><img src="https://img.shields.io/badge/Online_CV-cv.dinhtienvu.com-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Online CV"></a>
   <a href="https://t.me/vulieumang"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:vulieumang@gmail.com"><img src="https://img.shields.io/badge/Email-vulieumang%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.facebook.com/vulieumang"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
@@ -196,6 +198,7 @@
 *Dù bạn cần một kịch bản tự động hóa đơn giản hay một hệ thống phần mềm hoàn chỉnh, hãy nhắn cho tôi để cùng trao đổi giải pháp nhanh nhất.*
 
 <p align="center">
+  <a href="https://cv.dinhtienvu.com" target="_blank"><img src="https://img.shields.io/badge/Website_CV-cv.dinhtienvu.com-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Website CV"></a>
   <a href="https://t.me/vulieumang"><img src="https://img.shields.io/badge/Telegram-Nhắn_Ngay_%40vulieumang-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:vulieumang@gmail.com"><img src="https://img.shields.io/badge/Email-vulieumang%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.facebook.com/vulieumang"><img src="https://img.shields.io/badge/Facebook-Kết_Nối_Ngay-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
