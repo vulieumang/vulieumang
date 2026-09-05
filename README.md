@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://cv.dinhtienvu.com"><img src="https://img.shields.io/badge/Online_CV-cv.dinhtienvu.com-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Online CV"></a>
-  <a href="https://t.me/vulieumang"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/dinhtienvu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:vulieumang@gmail.com"><img src="https://img.shields.io/badge/Email-vulieumang%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.facebook.com/vulieumang"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://github.com/vulieumang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -199,7 +199,7 @@
 
 <p align="center">
   <a href="https://cv.dinhtienvu.com" target="_blank"><img src="https://img.shields.io/badge/Website_CV-cv.dinhtienvu.com-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Website CV"></a>
-  <a href="https://t.me/vulieumang"><img src="https://img.shields.io/badge/Telegram-Nhắn_Ngay_%40vulieumang-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/dinhtienvu"><img src="https://img.shields.io/badge/Telegram-Nhắn_Ngay_%40dinhtienvu-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:vulieumang@gmail.com"><img src="https://img.shields.io/badge/Email-vulieumang%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.facebook.com/vulieumang"><img src="https://img.shields.io/badge/Facebook-Kết_Nối_Ngay-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://discordapp.com/users/877882975855992852"><img src="https://img.shields.io/badge/Discord-Chat_Ngay-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
