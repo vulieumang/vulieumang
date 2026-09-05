@@ -17,10 +17,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vulieumang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.facebook.com/vulieumang"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://discordapp.com/users/877882975855992852"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://t.me/vulieumang"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:vulieumang@gmail.com"><img src="https://img.shields.io/badge/Email-vulieumang%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.facebook.com/vulieumang"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://github.com/vulieumang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://discordapp.com/users/877882975855992852"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 </div>
@@ -183,6 +184,7 @@
 *Dù bạn cần một kịch bản tự động hóa đơn giản hay một hệ thống phần mềm hoàn chỉnh, hãy nhắn cho tôi để cùng trao đổi giải pháp nhanh nhất.*
 
 <p align="center">
+  <a href="https://t.me/vulieumang"><img src="https://img.shields.io/badge/Telegram-Nhắn_Ngay_%40vulieumang-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="mailto:vulieumang@gmail.com"><img src="https://img.shields.io/badge/Email-vulieumang%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.facebook.com/vulieumang"><img src="https://img.shields.io/badge/Facebook-Kết_Nối_Ngay-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://discordapp.com/users/877882975855992852"><img src="https://img.shields.io/badge/Discord-Chat_Ngay-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
